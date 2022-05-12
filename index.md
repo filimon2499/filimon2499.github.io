@@ -30,42 +30,18 @@ img {
 
 
 ### About Me
-<!-- My name is Salomon Kabongo KABENAMUALU. I'm currently a Student at the [African Master in Machine Intelligence](https://aimsammi.org/) (AMMI), working toward an Msc in Machine Intelligence as sponsored by Facebook and Google. Before joining AMMI, I obtained my Msc in Mathematics from [The University of the Western Cape](https://www.uwc.ac.za/) in 2019 in affiliation with the African Institute for Mathematical Sciences ([AIMS South Africa](https://aims.ac.za/)), during which I got introduced to the field of Machine Leaning and worked on investigating propreties of words embeddings under the supervision of Prof. [Etienne Barbard](http://news.nwu.ac.za/experts/etienne-barnard). I also hold a B.S. and honors degree in Mathematics and Computer Science from [Université de Lubumbashi](http://www.unilu.ac.cd/). -->
-I am a doctoral candidate in computer science at [Leibniz Universität Hannover (LUH)](https://www.uni-hannover.de/en/) and a research assistant at the [AI Future Lab](https://leibniz-ai-lab.de/) of the L3S research center and the [Data Science and Digital Libraries research group](https://www.tib.eu/de/forschung-entwicklung/data-science-digital-libraries) at TIB. My academic background includes an MSc in Mathematics Science from the [The University of the Western Cape](https://www.uwc.ac.za/) in South Africa and an MSc from the [African Master in Machine Intelligence](https://aimsammi.org/) (AMMI) (University of Ghana) sponsored by Google and Facebook through the [African Institute for Mathematical Sciences](https://nexteinstein.org/).
+Mr Filimon Abel Mgandu teaches courses in applied mathematics and computer programming. In research, I am interested in developing mathematical models to solve real life problems. Currently I am working on modelling the impacts of climate changes on aflatoxin contaminations and water resources. I am also, interested in data analysis that involves designing, building and analysing models on large data sets using statistical softwares such as R, Python, SPSS, STATA, MATLAB and others.
 
 ---
 
 ### Research Interests
 My research interests include but not limited to:
-- Natural Language Processing 
-    - Automatic Speech Translation especially for low resources languages
-    - Automatic Speech Recognition 
-    - Machine Translation 
-- Deep learning
-- Inserting Knowledge Graph in DL architectures
-- Knowledge Graph and Information Extraction
-
----
-
-### Talks and Presentations
-- [Introduction to Natural Language Processing](/archive/Talk_1.pdf), African Institute for Mathematical Sciences, Cape Town, South Africa. 
-- [The Transformer, From RNN to Attention](https://youtu.be/rC_DDhMhVc8), [Data Science for Social Impact](https://dsfsi.github.io/) Research Group, Lab meeting 17 April 2020, Pretoria, South Africa, [Youtube recording](https://youtu.be/rC_DDhMhVc8), [slides](/archive/Talk_2.pdf).
-
----
-
-### News
-- [Deceber 2021] We won the [ICADL 2021 Best Paper Award
-](/images/award/TPDL2021.png).
-- [November 2021] My wife and I moved to the US as a permanent residents.
-- [February 2021] I got married :) and happyly enjoying my married life.
-- [Nov 2020] Thrilled to announce that I joined @l3s_luh/@TIBHannover Research lab and started my Ph.D. at [Leibniz Universität Hannover (LUH)](https://www.uni-hannover.de/en/) under the supervision of [Prof. Sören Auer](https://www.tib.eu/de/forschung-entwicklung/data-science-digital-libraries/mitarbeiterinnen-und-mitarbeiter/soeren-auer).
-- I Recently participate in the *Google hash code 2020*, our [team](/archive/hash_code.png) was ranked [1747/10724](https://hashcodejudge.withgoogle.com/scoreboard) on the online competition. 
-- [Jun 2020] I was accepted into the [DLRL Summer School 2020](https://dlrlsummerschool.ca/) hosted by [CIFAR](https://www.cifar.ca/) and [Mila](https://mila.quebec/en/)
-- I recently participate in the *Google hash code 2020*, our [team](/archive/hash_code.png) was ranked [1747/10724](https://hashcodejudge.withgoogle.com/scoreboard) on the online competition. 
-- [Member of the Association for Computing Machinery, ACM FCA](https://www.acm.org/fca). I was among the 36 new members *(October 2019)* selected from hundreds of very competitive applications, from academic institutions, research labs, and companies all over the world invited to participate in the ACM Future of Computing Academy (FCA) for a duration of 3 years.
+- Data science / Big data 
+- Data Analytics 
+- Statistics and Probability Theories 
+- Computer programming and Mathematical modelling
 
 ---
 
 ### Contacts
-- Book a call appointment with me [here](https://appt.link/meeting-with-salomon-kabongo).
-- Email: kabongosalomon@gmail.com
+- Email: filimonabel2499@gmail.com
