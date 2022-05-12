@@ -16,7 +16,7 @@ lang: zh
 {% assign posts_collate = site.categories.projects %}
 {% include JB/posts_collate %}
 
-CV in [PDF](/archive/CV_Salomon.pdf) version.
+CV in [PDF](/archive/Filimon CV.pdf) version.
 
 ---
 
@@ -34,9 +34,8 @@ CV in [PDF](/archive/CV_Salomon.pdf) version.
 </td>
 <td></td>
 <td markdown="1">
-[**Leibniz Universität Hannover (LUH)**](https://www.uni-hannover.de/en/), 11/2020 - 04/2023 
-- **Ph.D in Computer Science**
-- Supervisor: [Prof. Sören Auer](https://www.tib.eu/de/forschung-entwicklung/data-science-digital-libraries/mitarbeiterinnen-und-mitarbeiter/soeren-auer)
+[**The Nelson Mandela African Institution of Science and Technology (NM-AIST)**](https://nm-aist.ac.tz/), 2021 - Todate 
+- **Ph.D in Mathematics and Computational Science and Engineering**
 </td> 
 </tr>
 
@@ -46,22 +45,8 @@ CV in [PDF](/archive/CV_Salomon.pdf) version.
 </td>
 <td></td>
 <td markdown="1">
-[**The University of Ghana, (African Master In Machine Intelligence (AMMI, Ghana)**](https://www.ug.edu.gh/), 10/2019 - 10/2020 
-- **Msc in Machine Intelligence**
-- Supervisor: [Dr. Vukosi Marivate](https://cs.up.ac.za/users/view/vmarivate)
-- *Full scolarship by Facebook and Google, [AMMI](https://aimsammi.org/)*
-</td> 
-</tr>
-
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-![hkulogo](images/main/udacity.png)
-</td>
-<td></td>
-<td markdown="1">
-[**Udacity**](https://www.udacity.com/course/deep-learning-nanodegree--nd101), 04/2019 - 12/2019
-- **Deeplearnig Nanodegree**
-- *Full scolarship by [Facebook AI, and Udacity](https://www.udacity.com/facebook-AI-scholarship)*
+[**The University of Dar es salaam (UDSM)**](https://www.udsm.ac.tz/), 2017 - 2019
+- **Msc in Mathematical Modelling**
 </td> 
 </tr>
 
@@ -71,39 +56,10 @@ CV in [PDF](/archive/CV_Salomon.pdf) version.
 </td>
 <td></td>
 <td markdown="1">
-[**The University of Western Cape, (AIMS South Africa)**](https://www.uwc.ac.za/), 08/2018 - 06/2019 
-- **Msc in Mathematical Sciences**
-- Supervisor: Prof. [Etienne Barnard](http://news.nwu.ac.za/experts/etienne-barnard)
-- *Full scolarship by MasterCard Foundation, [AIMS South Africa](https://aims.ac.za/)*
+[**Sokoine University of Agriculture, (SUA)**](https://www.sua.ac.tz/), 2013 - 2016 
+- **Bsc With Education (Informatics and Mathematics)**
 </td> 
 </tr>
-
-<tr height="10"/>
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-![ustclogo](images/main/unilu.jpeg)
-</td>
-<td></td>
-<td markdown="1">
-[**Université de Lubumbashi**](http://www.unilu.ac.cd/), 2011 - 2017
-- **Licence en Mathématiques et informatiques**
-- Supervisor: Prof. [Franck Kalala](https://scholar.google.com/citations?user=fQnrWTgAAAAJ&hl=en)
-</td> 
-</tr>
-
-<tr height="10"/>
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-![ustclogo](images/main/unilu.jpeg)
-</td>
-<td></td>
-<td markdown="1">
-[**Université de Lubumbashi**](http://www.unilu.ac.cd/), 2011 - 2017
-- **Graduat en Mathématiques**
-- Supervisor: Prof. [Franck Kalala](https://scholar.google.com/citations?user=fQnrWTgAAAAJ&hl=en)
-</td> 
-</tr>
-
 </table>
 
 ---
@@ -116,22 +72,14 @@ CV in [PDF](/archive/CV_Salomon.pdf) version.
 #### Programming
 
 - Python
-- Julia
+- R
 - C/C++
 - Java
 </div>
   
 <div class="leftpane1" markdown="1">
 
-#### Libraries
-
-- PyTorch
-- TensorFlow
-- Nltk
-</div>
   
-<div class="leftpane1" markdown="1">
-
 #### Tools
 
 - Git 
@@ -142,12 +90,9 @@ CV in [PDF](/archive/CV_Salomon.pdf) version.
 
 #### Language
 
+- Swahili
 - English
 - French
-- Tshiluba
-- Lingala 
-- Kikongo 
-- Swahili
 </div>
 </div>
 
