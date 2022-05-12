@@ -119,7 +119,7 @@ CV in [PDF](/archive/Filimon CV.pdf) version.
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 <!-- ![lenovologo](images/main/L3S.jpg) -->
-<img src="images/main/L3S.jpg" width="100" height="100" />
+<img src="images/main/cbe.jpg" width="100" height="100" />
 </td>
 <td></td>
   
