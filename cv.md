@@ -129,7 +129,7 @@ CV in [PDF](/archive/Filimon CV.pdf) version.
 Research Assistant working with the Open Research Knowledge Graph https://www.orkg.org/orkg/ team to facilitate the curation of scholarly articles into a dedicated Knowledge Graph by the use of advanced NLP technics. 
 </td> 
 </tr>
-  
+ 
 </table>
 
 <style type="text/css">
