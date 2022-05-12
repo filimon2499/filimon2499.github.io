@@ -30,7 +30,7 @@ img {
 
 
 ### About Me
-Mr Filimon Abel Mgandu teaches courses in applied mathematics and computer programming. In research, I am interested in developing mathematical models to solve real life problems. Currently I am working on modelling the impacts of climate changes on aflatoxin contaminations and water resources. I am also, interested in data analysis that involves designing, building and analysing models on large data sets using statistical softwares such as R, Python, SPSS, STATA, MATLAB and others.
+ I am interested in developing mathematical models to solve real life problems. Currently I am working on modelling the impacts of climate changes on aflatoxin contaminations and water resources. I am also, interested in data analysis that involves designing, building and analysing models on large data sets using statistical softwares such as R, Python, SPSS, STATA, MATLAB and others.
 
 ---
 
