@@ -52,7 +52,7 @@ CV in [PDF](/archive/Filimon CV.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](images/main/sua.PNG)
+![hkulogo](images/main/Sua.PNG)
 </td>
 <td></td>
 <td markdown="1">
