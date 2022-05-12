@@ -96,16 +96,6 @@ In recent years there have been great interests in addressing the low resourcefu
 
 </td>
 <td></td>
-<td markdown="1">
-<div><b>MASAKHANE - MACHINE TRANSLATION FOR AFRICA</b></div>
-<div>
-Africa has over 2000 languages. Despite this, African languages account for a small portion of available resources and publications in Natural Language Processing (NLP). This is due to multiple factors, including: a lack of focus from government and funding, discoverability, a lack of community, sheer language complexity, difficulty in reproducing papers and no benchmarks to compare techniques. In this paper, we discuss our methodology for building the community and spurring research from the African continent, as well as outline the success of the community in terms of addressing the identified problems affecting African NLP.</div>
-<div><i>Accepted for the AfricaNLP Workshop, ICLR 2020</i></div>
-
-|| <em class="icon-home"/> || [paper](https://arxiv.org/pdf/2003.11529.pdf) || <em class="icon-github"/> || [source code](https://github.com/masakhane-io/masakhane.git) ||
-
-</td> 
-</tr>
 
 <!-- <tr height="50">
 <td style="padding-left: 1px;
