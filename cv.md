@@ -30,7 +30,7 @@ CV in [PDF](/archive/Filimon CV.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](images/main/luh.png)
+![hkulogo](images/main/mandela.PNG)
 </td>
 <td></td>
 <td markdown="1">
@@ -41,7 +41,7 @@ CV in [PDF](/archive/Filimon CV.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](images/main/univ_ghana.jpg)
+![hkulogo](images/main/udsm.PNG)
 </td>
 <td></td>
 <td markdown="1">
@@ -52,7 +52,7 @@ CV in [PDF](/archive/Filimon CV.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](images/main/UWC_logo.png)
+![hkulogo](images/main/sua.PNG)
 </td>
 <td></td>
 <td markdown="1">
