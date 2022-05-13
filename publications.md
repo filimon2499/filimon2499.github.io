@@ -24,22 +24,6 @@ lang: zh
     <strong style="font-size: 25px;">2017</strong></td>
 </tr> -->
 
-<!-- <tr style="border-bottom:1pt solid #eee" >
-<td markdown="1">
-![videovec](images/main/videovec.jpg){:class="img-shadow"}
-</td>
-<td></td>
-<td markdown="1">
-<div><a href="/archive/research/videovec/"><b>Video Vectorization via Tetrahedral Remeshing</b></a></div>
-<div><b>Chuan Wang</b>, Jie Zhu, Yanwen Guo, Wenping Wang</div>
-<div><i>IEEE Transactions on Image Processing, 2017</i></div>
-<div><i>"converting a raster video into its vectorized version, with perservation of the video features"</i></div>
-
-|| <em class="icon-home"></em> || [project page](/archive/research/videovec/) || <em class="icon-file"></em> || [paper](/archive/research/videovec/paper.pdf) || <em class="icon-film"></em> || [video demo](https://youtu.be/KmPdjB8f4ww) ||
-
-</td> 
-</tr> -->
-
 <tr height="50">
 <td style="padding-left: 1px;
     padding-bottom: 3px;
