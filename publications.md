@@ -50,98 +50,37 @@ lang: zh
 <tr style="border-bottom:1pt solid #eee" >
 <td markdown="1">
 <!-- ![spiden](images/papers/icadl2021.png =100x20){:class="img-shadow"} -->
-<img src="images/papers/icadl2021.png" width="200" height="200" />
+<img src="images/papers/paper_1.PNG" width="200" height="200" />
 </td>
 <td></td>
 <td markdown="1">
-<div><b>Automated Mining of Leaderboards for Empirical AI Research</b></div>
+<div><b>Modelling the Impacts of Climate Change on Water Level Fluctuations in Water Resources in Tanzania: A Case Study of Mtera Dam</b></div>
 <div>
-With the rapid growth of research publications, empowering scientists to keep oversight over the scientific progress is of paramount importance. In this regard, the Leaderboards facet of information organization provides an overview on the state-of-the-art by aggregating empirical results from various studies addressing the same research challenge. Crowdsourcing efforts like PapersWithCode among others are devoted to the construction of Leaderboards predominantly for various subdomains in Artificial Intelligence. Leaderboards provide machine-readable scholarly knowledge that has proven to be directly useful for scientists to keep track of research progress. The construction of Leaderboards could be greatly expedited with automated text mining.
-This study presents a comprehensive approach for generating Leaderboards for knowledge-graph-based scholarly information organization. Specifically, we investigate the problem of automated Leaderboard construction using state-of-the-art transformer models, viz. Bert, SciBert, and XLNet. Our analysis reveals an optimal approach that significantly outperforms existing baselines for the task with evaluation scores above 90% in F1. This, in turn, offers new state-of-the-art results for Leaderboard extraction. As a result, a vast share of empirical AI research can be organized in the next-generation digital libraries as knowledge graphs.
+ This study presents the modelling of impacts of climate change on water resources. Mtera dam in Tanzania was taken as a case study. Data for climate variables on four stations were obtained from Tanzania Meteorological Agency (TMA) while data for water level were obtained from Rufiji Basin Development Authority (RUBADA). The study aimed at doing regression analysis on all stations to analyze the impacts of change in climate variables on water level. Results show that rainfall was significant predictor of water level at Iringa and Dodoma while temperature and sunshine were significant at Mbeya station. Change in climate variables accounted for 37% of the fluctuations of water level in the dam. It was recommended that TANESCO should construct small dams on upper side of Mtera dam to harvest rain water during rainy season. In long run TANESCO should invest into alternative sources of energy.
 </div>
 <div><i>Accepted as a full paper at ICADL 2021</i></div>
 
-|| <em class="icon-home"/> || [paper](https://arxiv.org/pdf/2109.13089.pdf) || <em class="icon-github"/> || [source code](https://github.com/Kabongosalomon/task-dataset-metric-nli-extraction) ||
+|| <em class="icon-home"/> || [paper](https://www.mecs-press.org/ijmsc/ijmsc-v6-n3/IJMSC-V6-N3-3.pdf) ||
 
 </td> 
 </tr>
 
 <tr style="border-bottom:1pt solid #eee" >
 <td markdown="1">
-<img src="images/papers/listra.png" width="200" height="200" />
+<img src="images/papers/paper_2.PNG" width="200" height="200" />
 </td>
 <td></td>
 <td markdown="1">
-<div><b>LiSTra Automatic Speech Translation: English to Lingala case study</b></div>
+<div><b>Trend Analysis and Forecasting of Water Level in Mtera Dam Using Exponential Smoothing</b></div>
 <div>
-In recent years there have been great interests in addressing the low resourcefulness of African languages and providing baseline models for different Natural Language Processing tasks. Several initiatives on the continent use the Bible as a data source to provide proof of concept for some NLP tasks. In this work, we present the Lingala Speech Translation (LiSTra) dataset, release a full pipeline for the construction of such dataset in other languages, and report baselines using both the traditional cascade approach (Automatic Speech Recognition -> Machine Translation) and a revolutionary transformer-based End-2-End architecture with customized interactive attention that allows information sharing between the recognition decoder and the translation decoder.
+This study presents trend analysis and forecasting of water level in Mtera dam. Data for water level were obtained from Rufiji Basin Development Authority (RUBADA). The study analyzed trend of water level using time series regression while forecasting of water level in Mtera dam was done using Exponential smoothing. Results revealed that both maximum and minimum water level trends were decreasing. Forecasted values show that daily water level will be below 690 (m.a.s.l) which is the minimum level required for electricity generation on 2023. It was recommended that proper strategies should be taken by responsible authorities to reduce effects that may arise. Strategies my include constructing small dams on upper side of Mtera dam to harvest rain water during rainy season as reserves to be used on dry season. In long run Tanzania Electric Supply Company (TANESCO) should invest into alternative sources of energy.
 </div>
 <div><i>Accepted as a Poster and selected for spotlight talk at The 5th Black in AI Workshop (co-located with NeurIPS 2021)</i></div>
 
-|| <em class="icon-home"/> || [paper](/archive/posterBiai2021.pdf) || <em class="icon-github"/> || [source code](https://github.com/dsfsi/2020-AMMI-salomon) ||
+|| <em class="icon-home"/> || [paper](https://www.mecs-press.org/ijmsc/ijmsc-v6-n4/IJMSC-V6-N4-3.pdf)||
 
 </td> 
 </tr>
-
-<tr height="50">
-<td style="padding-left: 1px;
-    padding-bottom: 3px;
-    vertical-align: bottom;">
-    <strong style="font-size: 25px;">2020</strong></td>
-</tr>
-
-<tr style="border-bottom:1pt solid #eee" >
-<td markdown="1">
-<img src="images/papers/masakhane_paper_1.png" width="200" height="200" />
-
-</td>
-<td></td>
-
-<!-- <tr height="50">
-<td style="padding-left: 1px;
-    padding-bottom: 3px;
-    vertical-align: bottom;">
-    <strong style="font-size: 25px;">2015</strong></td>
-</tr> -->
-
-<!-- <tr style="border-bottom:1pt solid #eee" >
-<td markdown="1">
-![thesis](images/main/hkulogo2.jpg){:class="img-shadow"}
-</td>
-<td></td>
-<td markdown="1">
-<div><b>Ph.D Thesis: Video Object Co-Segmentation and Video Vectorization</b></div>
-<div><b>Chuan Wang</b></div>
-<div><i>The University of Hong Kong, January 2015.</i></div>
-<div><i>"a detailed version of the works in video object co-segmentation and video vectorization"</i></div>
-
-|| <em class="icon-file"></em> || thesis || <!--[thesis](/archive/research/thesis.pdf)-->
-
-<!-- </td> 
-</tr> -->
-
-<!-- <tr height="50">
-<td style="padding-left: 1px;
-    padding-bottom: 3px;
-    vertical-align: bottom;">
-    <strong style="font-size: 25px;">2014</strong></td>
-</tr> -->
-
-<!-- <tr style="border-bottom:1pt solid #eee" >
-<td markdown="1">
-![videocoseg](images/main/videocoseg.jpg){:class="img-shadow"}
-</td>
-<td></td>
-<td markdown="1">
-<div><a href="/archive/research/videocoseg/"><b>Video Object Co-segmentation via Subspace Clustering and Quadratic Pseudo-Boolean Optimization in an MRF Framework</b></a></div>
-<div><b>Chuan Wang</b>, Yanwen Guo, Jie Zhu, Linbo Wang, Wenping Wang</div>
-<div><i>IEEE Transactions on Multimedia, 2014.</i></div>
-<div><i>"common-foreground co-segmentation system for a group of videos"</i></div>
-
-|| <em class="icon-home"/> || [project page](/archive/research/videocoseg/) || <em class="icon-file"/> || [paper](/archive/research/videocoseg/paper.pdf) || <em class="icon-film"/> || [video demo](https://youtu.be/vbeN6JMkuGk) ||
-
-</td> 
-</tr> -->
 
 </table>
 
