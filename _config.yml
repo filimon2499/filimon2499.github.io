@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Filimon Abel Mgandu's Website
-author :
+author :Filimon  Abel Mgandu
   name : Filimon Abel Mgandu
   email: filimonabel2499@gmail.com
   github : filimon2499
   twitter : FilimonMgandu
   linkedin: linkedin.com/in/filimon-mgandu-804a13140
-description: > # this means to ignore newlines until "baseurl:"
+description: "Filimon Abel Mgandu" # this means to ignore newlines until "baseurl:"
   This is an example
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://filimon2499.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
