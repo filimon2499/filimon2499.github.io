@@ -1,7 +1,7 @@
 {% include JB/setup %}
 <!DOCTYPE html>
 <html {% if page.lang %}lang = "{{ page.lang }}"{% endif %}>
-
+{% seo %}
   <head>
 
     {% if site.google_analytics and jekyll.environment == 'production' %}
