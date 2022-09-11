@@ -1,7 +1,6 @@
 {% include JB/setup %}
 <!DOCTYPE html>
 <html {% if page.lang %}lang = "{{ page.lang }}"{% endif %}>
-{% seo %}
   <head>
 
     {% if site.google_analytics and jekyll.environment == 'production' %}
@@ -68,7 +67,7 @@
 		});
 	</script>
 	<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
-
+        {% seo %}
   </head>
 
   <body>
